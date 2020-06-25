@@ -8,6 +8,8 @@
 <a href="image"><img src="https://drive.google.com/uc?id=1V_oDIErlo-D5lcAGMo_s1nYdZFUmLwzG"></a>
 
 <a href="image"><img src="https://drive.google.com/uc?id=1gKDiRNmRiaLtWB1cAHL9CpE6ugvGog_-"></a>
+### cat command output below
+> hdfs dfs -cat test/data.txt
 
 <a href="image"><img src="https://drive.google.com/uc?id=1z-FAVDvwABnCVu8zjZhpKv_q7jf4FWSY"></a>
 

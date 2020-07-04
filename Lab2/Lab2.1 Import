@@ -1,2 +1,8 @@
 
 # Lab: Importing RDBMS Data into HDFS
+## About this Lab
+##Successful outcome: You will have imported data from MySQL into folders in HDFS.
+
+1.Create an Amazon RDS database.
+
+

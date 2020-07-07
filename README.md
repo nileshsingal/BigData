@@ -4,6 +4,6 @@
 ALL the Lab Task will be submitted Here
 
 **Day wise Submission**
-* [Lab1](https://github.com/nileshsingal/BigData/blob/master/Day1.md) --> **Using HDFS Commands**
+* [Lab1](https://github.com/nileshsingal/BigData/blob/master/Lab1/Day1.md) --> **Using HDFS Commands**
 * [Lab2.1](https://github.com/nileshsingal/BigData/blob/master/Lab2/Lab2.1%20Import.md) --> **Importing RDBMS Data into HDFS**
 * [Lab2.2](https://github.com/nileshsingal/BigData/blob/master/Lab2/Lab2.2%20Export.md) --> **Exporting HDFS Data to an RDBMS**

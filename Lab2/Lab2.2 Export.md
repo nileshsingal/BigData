@@ -18,11 +18,6 @@ Following are the steps to be performed in this lab:-
 
 4. Create a new Table in the Database as salaries2 using following sql command
 
-*create table salaries2 (
-gender varchar(1),
-age int,
-salary double,
-zipcode int);*
 
 ![table](https://github.com/nileshsingal/BigData/blob/master/images/3.2/3.png)
 

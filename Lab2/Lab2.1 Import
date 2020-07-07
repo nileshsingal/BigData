@@ -3,6 +3,8 @@
 ## About this Lab
 ##Successful outcome: You will have imported data from MySQL into folders in HDFS.
 
-1.Create an Amazon RDS database. Follow the [Day1](https://github.com/nileshsingal/BigData/blob/master/Day1.md) to create a new database.
+1.Create an Amazon RDS database. 
+[a link](https://github.com/nileshsingal/aws-practise/blob/master/Database/RDS/README.md)
+
 
 
